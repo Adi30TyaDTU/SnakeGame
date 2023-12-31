@@ -18,6 +18,9 @@ This Snake Game is a simple and fun implementation of the classic Snake game. It
 
 Include screenshots or GIFs of the gameplay to give users a visual preview of your Snake Game.
 
+![Screenshot 2023-12-31 131715](https://github.com/Adi30TyaDTU/SnakeGame/assets/128904617/15699aa0-d35e-42b1-a66a-79bfb19e7473)
+
+
 ## How to Run
 
 1. Clone the repository:
